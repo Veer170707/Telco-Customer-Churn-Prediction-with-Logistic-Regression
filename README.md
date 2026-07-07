@@ -48,9 +48,9 @@ A recurring theme in this project is fitting every transformer (imputer, encoder
 
 | Metric | Score |
 |---|---|
-| Train Accuracy | *fill in* |
-| Validation Accuracy | *fill in* |
-| Test Accuracy | *fill in* |
+| Train Accuracy |  0.92 |
+| Validation Accuracy | 0.92 |
+| Test Accuracy | 0.90 |
 
 *(Run `logistic_project.py` to reproduce these numbers.)*
 
